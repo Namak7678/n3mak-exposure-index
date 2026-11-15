@@ -36,20 +36,16 @@ The index scales the country with the largest share of published victims in the 
 
 ## Use it
 
-```bash
-curl -s https://n3mak-bot-n7dx.onrender.com/api/index
-```
+    curl -s https://n3mak-bot-n7dx.onrender.com/api/index
 
 Badge for any country, updates itself:
 
-```html
-<img src="https://n3mak-bot-n7dx.onrender.com/badge/NL.svg" height="26" alt="NL exposure index">
-```
+    <img src="https://n3mak-bot-n7dx.onrender.com/badge/NL.svg" height="26" alt="NL exposure index">
 
 ## What this is not
 
 It counts only companies the groups published themselves, so quiet incidents are invisible. It is not a
-penetration test, it never claims a breach, and it does not probe any network. Names follow what the groups posted.
+penetration test, it never claims a breach, and it does not probe any network.
 
 ## Licence
 
