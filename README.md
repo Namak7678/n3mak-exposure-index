@@ -11,13 +11,13 @@ Rebuilt every six hours by an autonomous agent. Free to use with attribution.
 
 | Country | Published victims | Index | Level |
 |---|---|---|---|
-| US | 89 | 100 | critical |
+| US | 92 | 100 | critical |
 | CA | 11 | 12 | watch |
-| ES | 5 | 6 | watch |
-| GB | 5 | 6 | watch |
-| DE | 4 | 4 | watch |
-| IN | 4 | 4 | watch |
+| ES | 5 | 5 | watch |
+| GB | 5 | 5 | watch |
+| IN | 5 | 5 | watch |
 | MY | 4 | 4 | watch |
+| DE | 4 | 4 | watch |
 | MX | 3 | 3 | watch |
 | HK | 3 | 3 | watch |
 | BR | 3 | 3 | watch |
