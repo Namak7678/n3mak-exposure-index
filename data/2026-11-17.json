@@ -1,58 +1,52 @@
 {
- "updated": "2026-11-17T01:46:36.038Z",
+ "updated": "2026-11-17T07:46:35.312Z",
  "countries": [
   {
    "country": "US",
-   "victims": 105,
+   "victims": 113,
    "index": 100,
    "level": "critical"
   },
   {
    "country": "CA",
    "victims": 19,
-   "index": 18,
+   "index": 17,
    "level": "watch"
   },
   {
    "country": "GB",
+   "victims": 8,
+   "index": 7,
+   "level": "watch"
+  },
+  {
+   "country": "DE",
+   "victims": 8,
+   "index": 7,
+   "level": "watch"
+  },
+  {
+   "country": "IN",
    "victims": 6,
-   "index": 6,
+   "index": 5,
    "level": "watch"
   },
   {
    "country": "MY",
    "victims": 5,
-   "index": 5,
+   "index": 4,
    "level": "watch"
   },
   {
    "country": "ES",
    "victims": 5,
-   "index": 5,
+   "index": 4,
    "level": "watch"
   },
   {
-   "country": "DE",
-   "victims": 5,
-   "index": 5,
-   "level": "watch"
-  },
-  {
-   "country": "IN",
-   "victims": 5,
-   "index": 5,
-   "level": "watch"
-  },
-  {
-   "country": "MX",
-   "victims": 3,
-   "index": 3,
-   "level": "watch"
-  },
-  {
-   "country": "HK",
-   "victims": 3,
-   "index": 3,
+   "country": "AU",
+   "victims": 4,
+   "index": 4,
    "level": "watch"
   },
   {
@@ -74,31 +68,37 @@
    "level": "watch"
   },
   {
-   "country": "ZA",
-   "victims": 2,
-   "index": 2,
-   "level": "watch"
-  },
-  {
-   "country": "ID",
-   "victims": 2,
-   "index": 2,
-   "level": "watch"
-  },
-  {
-   "country": "CN",
-   "victims": 2,
-   "index": 2,
-   "level": "watch"
-  },
-  {
    "country": "AE",
+   "victims": 3,
+   "index": 3,
+   "level": "watch"
+  },
+  {
+   "country": "MX",
+   "victims": 3,
+   "index": 3,
+   "level": "watch"
+  },
+  {
+   "country": "PH",
+   "victims": 3,
+   "index": 3,
+   "level": "watch"
+  },
+  {
+   "country": "HK",
+   "victims": 3,
+   "index": 3,
+   "level": "watch"
+  },
+  {
+   "country": "PE",
    "victims": 2,
    "index": 2,
    "level": "watch"
   },
   {
-   "country": "AU",
+   "country": "IE",
    "victims": 2,
    "index": 2,
    "level": "watch"
@@ -110,49 +110,31 @@
    "level": "watch"
   },
   {
-   "country": "PK",
-   "victims": 1,
-   "index": 1,
+   "country": "CN",
+   "victims": 2,
+   "index": 2,
    "level": "watch"
   },
   {
-   "country": "FR",
-   "victims": 1,
-   "index": 1,
+   "country": "ID",
+   "victims": 2,
+   "index": 2,
    "level": "watch"
   },
   {
-   "country": "PH",
-   "victims": 1,
-   "index": 1,
-   "level": "watch"
-  },
-  {
-   "country": "NG",
-   "victims": 1,
-   "index": 1,
+   "country": "ZA",
+   "victims": 2,
+   "index": 2,
    "level": "watch"
   },
   {
    "country": "IT",
-   "victims": 1,
-   "index": 1,
-   "level": "watch"
-  },
-  {
-   "country": "MK",
-   "victims": 1,
-   "index": 1,
+   "victims": 2,
+   "index": 2,
    "level": "watch"
   },
   {
    "country": "CM",
-   "victims": 1,
-   "index": 1,
-   "level": "watch"
-  },
-  {
-   "country": "NL",
    "victims": 1,
    "index": 1,
    "level": "watch"
@@ -188,12 +170,6 @@
    "level": "watch"
   },
   {
-   "country": "IE",
-   "victims": 1,
-   "index": 1,
-   "level": "watch"
-  },
-  {
    "country": "TR",
    "victims": 1,
    "index": 1,
@@ -212,19 +188,13 @@
    "level": "watch"
   },
   {
-   "country": "PE",
-   "victims": 1,
-   "index": 1,
-   "level": "watch"
-  },
-  {
    "country": "KE",
    "victims": 1,
    "index": 1,
    "level": "watch"
   },
   {
-   "country": "KR",
+   "country": "NL",
    "victims": 1,
    "index": 1,
    "level": "watch"
@@ -255,6 +225,42 @@
   },
   {
    "country": "CH",
+   "victims": 1,
+   "index": 1,
+   "level": "watch"
+  },
+  {
+   "country": "PK",
+   "victims": 1,
+   "index": 1,
+   "level": "watch"
+  },
+  {
+   "country": "FR",
+   "victims": 1,
+   "index": 1,
+   "level": "watch"
+  },
+  {
+   "country": "PT",
+   "victims": 1,
+   "index": 1,
+   "level": "watch"
+  },
+  {
+   "country": "NG",
+   "victims": 1,
+   "index": 1,
+   "level": "watch"
+  },
+  {
+   "country": "MK",
+   "victims": 1,
+   "index": 1,
+   "level": "watch"
+  },
+  {
+   "country": "KR",
    "victims": 1,
    "index": 1,
    "level": "watch"
