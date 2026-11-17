@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-17T07:46:35.312Z",
+ "updated": "2026-11-17T13:46:37.030Z",
  "countries": [
   {
    "country": "US",
-   "victims": 113,
+   "victims": 118,
    "index": 100,
    "level": "critical"
   },
   {
    "country": "CA",
    "victims": 19,
-   "index": 17,
+   "index": 16,
    "level": "watch"
   },
   {
    "country": "GB",
-   "victims": 8,
-   "index": 7,
+   "victims": 9,
+   "index": 8,
    "level": "watch"
   },
   {
@@ -32,13 +32,13 @@
    "level": "watch"
   },
   {
-   "country": "MY",
+   "country": "ES",
    "victims": 5,
    "index": 4,
    "level": "watch"
   },
   {
-   "country": "ES",
+   "country": "MY",
    "victims": 5,
    "index": 4,
    "level": "watch"
@@ -46,41 +46,17 @@
   {
    "country": "AU",
    "victims": 4,
-   "index": 4,
-   "level": "watch"
-  },
-  {
-   "country": "BR",
-   "victims": 3,
    "index": 3,
    "level": "watch"
   },
   {
    "country": "SA",
-   "victims": 3,
-   "index": 3,
-   "level": "watch"
-  },
-  {
-   "country": "JP",
-   "victims": 3,
-   "index": 3,
-   "level": "watch"
-  },
-  {
-   "country": "AE",
-   "victims": 3,
+   "victims": 4,
    "index": 3,
    "level": "watch"
   },
   {
    "country": "MX",
-   "victims": 3,
-   "index": 3,
-   "level": "watch"
-  },
-  {
-   "country": "PH",
    "victims": 3,
    "index": 3,
    "level": "watch"
@@ -92,13 +68,49 @@
    "level": "watch"
   },
   {
+   "country": "JP",
+   "victims": 3,
+   "index": 3,
+   "level": "watch"
+  },
+  {
+   "country": "BR",
+   "victims": 3,
+   "index": 3,
+   "level": "watch"
+  },
+  {
+   "country": "PH",
+   "victims": 3,
+   "index": 3,
+   "level": "watch"
+  },
+  {
+   "country": "AE",
+   "victims": 3,
+   "index": 3,
+   "level": "watch"
+  },
+  {
    "country": "PE",
    "victims": 2,
    "index": 2,
    "level": "watch"
   },
   {
-   "country": "IE",
+   "country": "ID",
+   "victims": 2,
+   "index": 2,
+   "level": "watch"
+  },
+  {
+   "country": "IT",
+   "victims": 2,
+   "index": 2,
+   "level": "watch"
+  },
+  {
+   "country": "KW",
    "victims": 2,
    "index": 2,
    "level": "watch"
@@ -116,19 +128,13 @@
    "level": "watch"
   },
   {
-   "country": "ID",
+   "country": "IE",
    "victims": 2,
    "index": 2,
    "level": "watch"
   },
   {
    "country": "ZA",
-   "victims": 2,
-   "index": 2,
-   "level": "watch"
-  },
-  {
-   "country": "IT",
    "victims": 2,
    "index": 2,
    "level": "watch"
@@ -147,12 +153,6 @@
   },
   {
    "country": "VN",
-   "victims": 1,
-   "index": 1,
-   "level": "watch"
-  },
-  {
-   "country": "KW",
    "victims": 1,
    "index": 1,
    "level": "watch"
