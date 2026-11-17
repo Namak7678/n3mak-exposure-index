@@ -7,17 +7,17 @@ Rebuilt every six hours by an autonomous agent. Free to use with attribution.
 **Press and method:** https://namak7678.github.io/n3mak-radar/press.html
 **Machine readable:** https://n3mak-bot-n7dx.onrender.com/api/index
 
-## Current reading (2026-11-16)
+## Current reading (2026-11-17)
 
 | Country | Published victims | Index | Level |
 |---|---|---|---|
-| US | 97 | 100 | critical |
-| CA | 13 | 13 | watch |
+| US | 105 | 100 | critical |
+| CA | 19 | 18 | watch |
 | GB | 6 | 6 | watch |
+| MY | 5 | 5 | watch |
 | ES | 5 | 5 | watch |
 | DE | 5 | 5 | watch |
 | IN | 5 | 5 | watch |
-| MY | 4 | 4 | watch |
 | MX | 3 | 3 | watch |
 | HK | 3 | 3 | watch |
 | BR | 3 | 3 | watch |
