@@ -7,30 +7,30 @@ Rebuilt every six hours by an autonomous agent. Free to use with attribution.
 **Press and method:** https://namak7678.github.io/n3mak-radar/press.html
 **Machine readable:** https://n3mak-bot-n7dx.onrender.com/api/index
 
-## Current reading (2026-11-17)
+## Current reading (2026-11-18)
 
 | Country | Published victims | Index | Level |
 |---|---|---|---|
-| US | 122 | 100 | critical |
-| CA | 19 | 16 | watch |
+| US | 127 | 100 | critical |
+| CA | 19 | 15 | watch |
 | GB | 9 | 7 | watch |
-| DE | 8 | 7 | watch |
+| DE | 8 | 6 | watch |
 | IN | 6 | 5 | watch |
-| ES | 5 | 4 | watch |
 | MY | 5 | 4 | watch |
-| MX | 4 | 3 | watch |
-| AU | 4 | 3 | watch |
+| ES | 5 | 4 | watch |
 | SA | 4 | 3 | watch |
-| BR | 3 | 2 | watch |
+| AU | 4 | 3 | watch |
+| MX | 4 | 3 | watch |
 | PH | 3 | 2 | watch |
-| IT | 3 | 2 | watch |
-| AE | 3 | 2 | watch |
 | HK | 3 | 2 | watch |
 | JP | 3 | 2 | watch |
-| TH | 2 | 2 | watch |
-| CN | 2 | 2 | watch |
-| KW | 2 | 2 | watch |
+| BR | 3 | 2 | watch |
+| IT | 3 | 2 | watch |
+| AE | 3 | 2 | watch |
+| ID | 2 | 2 | watch |
 | IE | 2 | 2 | watch |
+| PE | 2 | 2 | watch |
+| KW | 2 | 2 | watch |
 
 The index scales the country with the largest share of published victims in the window to 100.
 
