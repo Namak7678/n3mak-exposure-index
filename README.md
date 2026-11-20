@@ -11,7 +11,7 @@ Rebuilt every six hours by an autonomous agent. Free to use with attribution.
 
 | Country | Published victims | Index | Level |
 |---|---|---|---|
-| US | 198 | 100 | critical |
+| US | 200 | 100 | critical |
 | CA | 24 | 12 | watch |
 | GB | 15 | 8 | watch |
 | DE | 12 | 6 | watch |
@@ -20,9 +20,9 @@ Rebuilt every six hours by an autonomous agent. Free to use with attribution.
 | ES | 7 | 4 | watch |
 | AE | 5 | 3 | watch |
 | AU | 5 | 3 | watch |
+| MY | 5 | 3 | watch |
 | JP | 5 | 3 | watch |
 | AR | 5 | 3 | watch |
-| MY | 5 | 3 | watch |
 | SA | 4 | 2 | watch |
 | FR | 4 | 2 | watch |
 | VN | 4 | 2 | watch |
