@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21T13:46:34.185Z",
+ "updated": "2026-11-21T19:46:34.095Z",
  "countries": [
   {
    "country": "US",
-   "victims": 209,
+   "victims": 211,
    "index": 100,
    "level": "critical"
   },
@@ -86,7 +86,7 @@
    "level": "watch"
   },
   {
-   "country": "CO",
+   "country": "IE",
    "victims": 4,
    "index": 2,
    "level": "watch"
@@ -116,13 +116,13 @@
    "level": "watch"
   },
   {
-   "country": "HK",
-   "victims": 3,
-   "index": 1,
+   "country": "CO",
+   "victims": 4,
+   "index": 2,
    "level": "watch"
   },
   {
-   "country": "IE",
+   "country": "HK",
    "victims": 3,
    "index": 1,
    "level": "watch"
