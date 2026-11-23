@@ -19,18 +19,18 @@ Rebuilt every six hours by an autonomous agent. Free to use with attribution.
 | MX | 8 | 4 | watch |
 | ES | 8 | 4 | watch |
 | JP | 7 | 3 | watch |
-| IT | 6 | 3 | watch |
-| PH | 6 | 3 | watch |
 | AR | 6 | 3 | watch |
-| AE | 5 | 2 | watch |
+| PH | 6 | 3 | watch |
+| IT | 6 | 3 | watch |
 | AU | 5 | 2 | watch |
-| MY | 5 | 2 | watch |
 | FR | 5 | 2 | watch |
-| IE | 4 | 2 | watch |
-| BR | 4 | 2 | watch |
+| AE | 5 | 2 | watch |
+| MY | 5 | 2 | watch |
 | TW | 4 | 2 | watch |
+| BR | 4 | 2 | watch |
+| IE | 4 | 2 | watch |
 | SA | 4 | 2 | watch |
-| CO | 4 | 2 | watch |
+| VN | 4 | 2 | watch |
 
 The index scales the country with the largest share of published victims in the window to 100.
 
