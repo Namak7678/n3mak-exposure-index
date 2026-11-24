@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-24T13:46:38.085Z",
+ "updated": "2026-11-24T19:46:37.223Z",
  "countries": [
   {
    "country": "US",
-   "victims": 241,
+   "victims": 244,
    "index": 100,
    "level": "critical"
   },
@@ -21,13 +21,13 @@
   },
   {
    "country": "DE",
-   "victims": 19,
+   "victims": 20,
    "index": 8,
    "level": "watch"
   },
   {
    "country": "IN",
-   "victims": 11,
+   "victims": 13,
    "index": 5,
    "level": "watch"
   },
