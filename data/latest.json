@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:46:36.824Z",
+ "updated": "2026-11-26T19:46:34.444Z",
  "countries": [
   {
    "country": "US",
@@ -134,19 +134,19 @@
    "level": "watch"
   },
   {
-   "country": "KR",
+   "country": "ID",
+   "victims": 4,
+   "index": 1,
+   "level": "watch"
+  },
+  {
+   "country": "CN",
    "victims": 3,
    "index": 1,
    "level": "watch"
   },
   {
    "country": "MK",
-   "victims": 3,
-   "index": 1,
-   "level": "watch"
-  },
-  {
-   "country": "ID",
    "victims": 3,
    "index": 1,
    "level": "watch"
@@ -164,13 +164,13 @@
    "level": "watch"
   },
   {
-   "country": "CN",
+   "country": "TH",
    "victims": 3,
    "index": 1,
    "level": "watch"
   },
   {
-   "country": "TH",
+   "country": "KR",
    "victims": 3,
    "index": 1,
    "level": "watch"
