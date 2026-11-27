@@ -11,8 +11,8 @@ Rebuilt every six hours by an autonomous agent. Free to use with attribution.
 
 | Country | Published victims | Index | Level |
 |---|---|---|---|
-| US | 282 | 100 | critical |
-| CA | 35 | 12 | watch |
+| US | 285 | 100 | critical |
+| CA | 36 | 13 | watch |
 | DE | 28 | 10 | watch |
 | GB | 23 | 8 | watch |
 | IT | 15 | 5 | watch |
@@ -23,14 +23,14 @@ Rebuilt every six hours by an autonomous agent. Free to use with attribution.
 | FR | 9 | 3 | watch |
 | PH | 7 | 2 | watch |
 | AU | 7 | 2 | watch |
-| BR | 6 | 2 | watch |
 | AR | 6 | 2 | watch |
+| BR | 6 | 2 | watch |
+| ID | 5 | 2 | watch |
 | CO | 5 | 2 | watch |
 | MY | 5 | 2 | watch |
+| CH | 5 | 2 | watch |
 | VN | 5 | 2 | watch |
-| ID | 5 | 2 | watch |
 | TW | 5 | 2 | watch |
-| AE | 5 | 2 | watch |
 
 The index scales the country with the largest share of published victims in the window to 100.
 
