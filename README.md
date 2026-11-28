@@ -14,7 +14,7 @@ Rebuilt every six hours by an autonomous agent. Free to use with attribution.
 | US | 290 | 100 | critical |
 | CA | 37 | 13 | watch |
 | DE | 29 | 10 | watch |
-| GB | 23 | 8 | watch |
+| GB | 24 | 8 | watch |
 | IN | 16 | 6 | watch |
 | IT | 15 | 5 | watch |
 | ES | 12 | 4 | watch |
