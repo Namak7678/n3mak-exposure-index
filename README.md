@@ -11,12 +11,12 @@ Rebuilt every six hours by an autonomous agent. Free to use with attribution.
 
 | Country | Published victims | Index | Level |
 |---|---|---|---|
-| US | 290 | 100 | critical |
+| US | 291 | 100 | critical |
 | CA | 37 | 13 | watch |
 | DE | 29 | 10 | watch |
 | GB | 24 | 8 | watch |
-| IN | 16 | 6 | watch |
-| IT | 15 | 5 | watch |
+| IT | 16 | 5 | watch |
+| IN | 16 | 5 | watch |
 | ES | 12 | 4 | watch |
 | MX | 11 | 4 | watch |
 | JP | 9 | 3 | watch |
