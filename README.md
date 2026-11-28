@@ -7,29 +7,29 @@ Rebuilt every six hours by an autonomous agent. Free to use with attribution.
 **Press and method:** https://namak7678.github.io/n3mak-radar/press.html
 **Machine readable:** https://n3mak-bot-n7dx.onrender.com/api/index
 
-## Current reading (2026-11-27)
+## Current reading (2026-11-28)
 
 | Country | Published victims | Index | Level |
 |---|---|---|---|
-| US | 287 | 100 | critical |
-| CA | 36 | 13 | watch |
+| US | 290 | 100 | critical |
+| CA | 37 | 13 | watch |
 | DE | 29 | 10 | watch |
 | GB | 23 | 8 | watch |
+| IN | 16 | 6 | watch |
 | IT | 15 | 5 | watch |
-| IN | 15 | 5 | watch |
 | ES | 12 | 4 | watch |
 | MX | 11 | 4 | watch |
 | JP | 9 | 3 | watch |
 | FR | 9 | 3 | watch |
-| PH | 7 | 2 | watch |
 | AU | 7 | 2 | watch |
+| PH | 7 | 2 | watch |
 | AR | 6 | 2 | watch |
 | BR | 6 | 2 | watch |
-| ID | 5 | 2 | watch |
-| CO | 5 | 2 | watch |
+| CO | 6 | 2 | watch |
+| VN | 5 | 2 | watch |
 | MY | 5 | 2 | watch |
 | CH | 5 | 2 | watch |
-| VN | 5 | 2 | watch |
+| ID | 5 | 2 | watch |
 | TW | 5 | 2 | watch |
 
 The index scales the country with the largest share of published victims in the window to 100.
