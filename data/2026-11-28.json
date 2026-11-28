@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:46:33.692Z",
+ "updated": "2026-11-28T07:46:35.107Z",
  "countries": [
   {
    "country": "US",
@@ -21,7 +21,7 @@
   },
   {
    "country": "GB",
-   "victims": 23,
+   "victims": 24,
    "index": 8,
    "level": "watch"
   },
